@@ -7084,4 +7084,4 @@ benchmark = ["agbenchmark"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "acca6b5d67a64527f1d19f61e20a89eb228e066a80cd7701fd59cf19bb267eb8"
+content-hash = "6aa27eac2cf333ce9e59e2061c6b9662617b159f66873ead8cd3e52528a921cb"
